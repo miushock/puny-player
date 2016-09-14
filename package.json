@@ -12,5 +12,8 @@
     "jquery": "~2.1.4",
     "freelog-widgetscript": "~0.1.0",
     "grunt-http": "^1.6.0"
+  },
+  "dependencies": {
+    "grunt": ">=0.4.5  <1.0"
   }
 }
